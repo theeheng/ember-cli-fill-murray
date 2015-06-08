@@ -2,5 +2,5 @@
 'use strict';
 
 module.exports = {
-  name: 'ember-cli-fill-murray'
+  name: 'ember-cli-fill-murray-theeheng'
 };

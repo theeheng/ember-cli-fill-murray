@@ -10,3 +10,4 @@ src: Ember.computed('height', 'width', function() {
 var base = 'http://www.fillmurray.com/';
 return base + this.get('width') + '/' + this.get('height');
 })
+});
